@@ -12,7 +12,7 @@ Flickrsets 2 WP is a plugin that allows you to get the list of Flickr sets for a
 
 Flickrsets 2 WP is the so far missing plugin for Wordpress/FlickR. You can now get the list of the public sets of any FlickR user.
 
-*Flickrsets 2 WP is maintained by <a href='http://www.vezoul.fr'>Pierrick FLAJOULOT</a>.
+*Flickrsets 2 WP is maintained by <a href='http://www.vezoul.fr' title='Pierrick Flajoulot'>Pierrick FLAJOULOT</a>.
 
 == Credits ==
 
