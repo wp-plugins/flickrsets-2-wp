@@ -3,6 +3,7 @@ Contributors: Pierrick FLAJOULOT
 Tags: flickr,photostream,sets,list,photo,sharing,admin,flickrsets2wp,flickrsets 2 WP
 Requires at least: 3.4
 Tested up to: 3.4
+Stable tag: trunk/
 License: GPLv2
 
 Flickrsets 2 WP is a plugin that allows you to get the list of Flickr sets for a given user.
